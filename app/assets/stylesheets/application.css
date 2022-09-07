@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.t-border {
+  border-left: 3px solid grey;
+}
